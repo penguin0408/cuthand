@@ -602,18 +602,10 @@ a:hover {
   padding-bottom: 15px;
 }
 
-.picture div {
-  height: 40%;
-}
-
 .item .item-container {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-}
-
-.item li {
-  height: 33%;
 }
 
 .shop {
